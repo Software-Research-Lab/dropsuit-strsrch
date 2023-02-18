@@ -1,6 +1,6 @@
 {
   "name": "dropsuit-strsrch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DropSuit NLP - strsrch function: A JavaScript and Node.js library for searching and matching patterns in question and answer arrays",
   "main": "index.js",
   "scripts": {
