@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ladooniani/dropsuit-strsrch#readme",
   "dependencies": {
-    "dropsuit-clnstr": "^1.0.10"
+    "dropsuit-clnstr": "^1.0.11"
   },
   "devDependencies": {
     "mocha": "^10.2.0"
